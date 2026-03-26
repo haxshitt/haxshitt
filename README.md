@@ -1,25 +1,30 @@
-Hi, I'm Harshit Pathak 👋
-I am a Full Stack Developer passionate about architecting robust backends and turning complex ideas into functional, scalable web applications. I thrive at the intersection of logical problem-solving (DSA) and building real-world systems that just work.
+# Hi, I'm Harshit Pathak 👋
 
-🛠️ Tech Stack
-Languages: C, C++, Java, JavaScript (ES6+)
+I am a Full Stack Developer passionate about architecting robust backends and turning complex ideas into functional, scalable web applications.  
+I thrive at the intersection of logical problem-solving (DSA) and building real-world systems that just work.
 
-Backend: Node.js, Express.js
+---
 
-Database: MongoDB, Mongoose
+## 🛠️ Tech Stack
 
-Frontend: React.js, HTML5, CSS3
+**Languages:** C, C++, Java, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Mongoose  
+**Frontend:** React.js, HTML5, CSS3  
+**Tools:** Git, GitHub, Postman 
 
-DevOps & Tools: Git, GitHub, Postman, Web Hosting & Deployment
+---
 
-🚀 What I’m Up To
-💻 Building: Scalable full-stack applications with a focus on secure authentication and clean API design.
+## 🚀 What I’m Up To
 
-🧠 Solving: 150+ problems on LeetCode/GFG, specializing in Arrays, Sliding Window, and Hashing.
+- Building scalable full-stack applications with a focus on backend architecture, secure authentication, and clean API design  
+- Solving DSA problems on LeetCode and GFG  
+- Preparing for engineering roles by strengthening system design and backend concepts  
+- Currently learning advanced backend patterns, performance optimization, and scalable systems  
 
-📈 Goal: Strengthening System Design patterns and preparing for high-impact engineering roles.
+---
 
-📬 Connect with Me
-LinkedIn: linkedin.com/in/your-username
+## 📬 Connect with Me
 
-Portfolio/Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/harshit-pathak-984152300  
+- Email: harshiitpathak@gmail.com  
